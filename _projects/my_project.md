@@ -2,7 +2,7 @@
 title: "Teaching Creative Writing Under Socialism: The Gorky Literary Institute"
 excerpt: 'The Gorky Literary Institute has been producing (or sometimes failing to produce) socialist writers since 1933. What conditions made the emergence of this institution possible and necessary?.'
 overlay_image: 'https://litinstitut.ru/sites/default/files/litinstitut_old_zzz.jpg'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+teaser: "https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg"
 contributors:
   - name: Excellent Senior
     bio: ('19) is an English major and Gender and Sexuality studies and Peace and Conflict studies dual-minor. She is interested continuing counter-hegemonic work in the non-profit sector next year, specifically working in the Pittsburgh Queer Equality Center.
