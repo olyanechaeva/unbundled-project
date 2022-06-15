@@ -9,8 +9,7 @@ contributors:
     image: /assets/images/tinder.jpg
   - name: Olga Nechaeva
     image: https://rees.sas.upenn.edu/sites/default/files/styles/masonry_image/public/nechaeva2.jpg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: OfficialRomero
+    bio: Born in Yoshkar-Ola, Russia. PhD Candidate in Comparative Literature and Literary Theory at the University of Pennsylvania.
 ---
 
 
