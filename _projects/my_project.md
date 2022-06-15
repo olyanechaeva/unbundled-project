@@ -16,11 +16,11 @@ contributors:
 ## Introduction
 
 Tanya Iudenich (9th grade of high school, Tashkent) in a personal letter to Stalin:\
-      Joseph Vissarionovich!\  
+      Joseph Vissarionovich!  
       I want to ask you:\
       Help me and show it!\
       How to become\
-      A Soviet poet!!!\
+      A Soviet poet!!!
       
 Maria Beletskaia (24 years, Stavropolskii region) in a personal letter to People’s Commissariat for Education Andrei Bubnov:\
 "…12 years I’ve been racking my brain with vain thoughts, but it won’t help… In my brain there is so much thought, but I cannot put in on paper, and all because I did not study…"
