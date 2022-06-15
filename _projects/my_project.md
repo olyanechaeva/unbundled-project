@@ -6,7 +6,7 @@ teaser: "https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg"
 contributors:
   - name: Olga Nechaeva
     image: https://rees.sas.upenn.edu/sites/default/files/styles/masonry_image/public/nechaeva2.jpg
-    bio: Born in Yoshkar-Ola, Russia. PhD Candidate in Comparative Literature and Literary Theory at the University of Pennsylvania.
+    bio: was born in Yoshkar-Ola, Russia. PhD Candidate in Comparative Literature and Literary Theory at the University of Pennsylvania.
 ---
 
 
