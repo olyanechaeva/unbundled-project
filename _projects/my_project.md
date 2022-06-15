@@ -4,9 +4,6 @@ excerpt: 'The Gorky Literary Institute has been producing (or sometimes failing 
 overlay_image: 'https://litinstitut.ru/sites/default/files/litinstitut_old_zzz.jpg'
 teaser: "https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg"
 contributors:
-  - name: Excellent Senior
-    bio: ('19) is an English major and Gender and Sexuality studies and Peace and Conflict studies dual-minor. She is interested continuing counter-hegemonic work in the non-profit sector next year, specifically working in the Pittsburgh Queer Equality Center.
-    image: /assets/images/tinder.jpg
   - name: Olga Nechaeva
     image: https://rees.sas.upenn.edu/sites/default/files/styles/masonry_image/public/nechaeva2.jpg
     bio: Born in Yoshkar-Ola, Russia. PhD Candidate in Comparative Literature and Literary Theory at the University of Pennsylvania.
