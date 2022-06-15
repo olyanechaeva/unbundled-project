@@ -1,13 +1,16 @@
 ---
-title: "Teaching Under Socialism: The Gorky Literary Institute"
+title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-overlay_image: 'https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg'
-teaser: "https://litinstitut.ru/sites/default/files/litinstitut_old_zzz.jpg"
+overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg'
+teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: Olga Nechaeva
-    image: https://rees.sas.upenn.edu/sites/default/files/styles/masonry_image/public/nechaeva2.jpg
-    bio: born in Yoshkar-Ola, Russia, in 1991. Olga received her BSc in Business-Informatics from the National Research University Higher School of Economics (HSE, Moscow) in 2012. In 2012-2014 she studied in the double degree program in economics between the HSE University (Moscow) and Paris 1 Pantheon-Sorbonne University (Paris). A few years later, she turned to literary studies. Olga received her MA in Comparative Studies and Russian Literature from the HSE University (Moscow) in 2018. Her master thesis was devoted to the study of creative writing institutions in Russia, specifically the Higher Institute of Literature and Art (1921-1925) founded by Valerii Briusov and the Higher State Literary Courses (1925-1929). In her dissertation, preliminary titled "The Gorky Literary Institute: Creative Writing under Socialism," Olga is examining the questions of mutual influences among formalized education, creative processes, and literary evolution in the socialist world as a whole. 
-    facebook: sakdegor
+  - name: Excellent Senior
+    bio: ('19) is an English major and Gender and Sexuality studies and Peace and Conflict studies dual-minor. She is interested continuing counter-hegemonic work in the non-profit sector next year, specifically working in the Pittsburgh Queer Equality Center.
+    image: /assets/images/tinder.jpg
+  - name: George Romero
+    image: https://pbs.twimg.com/profile_images/359264700/RomeroAvatar_400x400.jpg
+    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
+    twitter: OfficialRomero
 ---
 
 
