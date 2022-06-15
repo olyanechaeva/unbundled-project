@@ -1,7 +1,7 @@
 ---
 title: "Teaching Creative Writing Under Socialism: The Gorky Literary Institute"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-overlay_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg'
+overlay_image: 'https://litinstitut.ru/sites/default/files/litinstitut_old_zzz.jpg'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Excellent Senior
