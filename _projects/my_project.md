@@ -2,7 +2,7 @@
 title: "Teaching Creative Writing Under Socialism: The Gorky Literary Institute"
 excerpt: 'The Gorky Literary Institute has been producing (or sometimes failing to produce) socialist writers since 1933. What conditions made the emergence of this institution possible and necessary?'
 overlay_image: 'https://litinstitut.ru/sites/default/files/litinstitut_old_zzz.jpg'
-teaser: "https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg"
+teaser: 'https://litinstitut.ru/sites/default/files/lit_vm_boris_prihodko.jpg'
 contributors:
   - name: Olga Nechaeva
     image: https://rees.sas.upenn.edu/sites/default/files/styles/masonry_image/public/nechaeva2.jpg
